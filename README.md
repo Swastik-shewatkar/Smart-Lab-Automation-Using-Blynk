@@ -1,8 +1,9 @@
 # 🏫 IoT-Based Smart Laboratory Automation System Using Blynk
+
 ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-green)
 ![Blynk](https://img.shields.io/badge/Blynk-IoT-orange)
-![C++](https://img.shields.io/badge/Language-C++-00599C)
+![C++](https://img.shields.io/badge/Language-C++-00599C) 
 ![IoT](https://img.shields.io/badge/Technology-IoT-success)
 ![WiFi](https://img.shields.io/badge/Communication-WiFi-yellow)
 
