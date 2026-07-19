@@ -101,34 +101,19 @@ The system is built around the ESP32 microcontroller, which connects to the inte
 
 ## 📸 Project Images
 
-### Hardware Setup
+## 🔌 Circuit Diagram
 
-> Add your hardware setup image here.
+The following circuit diagram illustrates the hardware connections between the ESP32, 8-channel relay module, and laboratory appliances.
 
-```
-Images/Hardware_Setup.jpg
-```
+![Circuit Diagram](Circuit_Diagram/Circuit_Diagram.png)
 
 ---
 
-### Blynk Dashboard
+## 📱 Blynk Dashboard
 
-> Add a screenshot of your Blynk dashboard.
+The Blynk IoT dashboard enables remote monitoring and control of laboratory lights and fans through a smartphone. It supports both individual appliance control and master control for all lights and fans.
 
-```
-Images/Blynk_Dashboard.jpg
-```
-
----
-
-### Circuit Diagram
-
-> Add the circuit diagram of the project.
-
-```
-Circuit_Diagram/Circuit.pdf
-```
----
+![Blynk Dashboard](Images/Blynk_Dashboard.jpg)
 
 ## 🚀 Installation
 
@@ -237,4 +222,4 @@ Electronics & Telecommunication Engineering Student
 
 🔗 LinkedIn: https://linkedin.com/in/swastik-shewatkar-511bab317
 
-💻 GitHub: https://github.com/Swastik-shewatkar
+💻 GitHub: https://github.com/Swastik-shewatkar   
