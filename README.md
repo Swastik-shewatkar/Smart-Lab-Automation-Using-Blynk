@@ -101,19 +101,21 @@ The system is built around the ESP32 microcontroller, which connects to the inte
 
 ## 📸 Project Images
 
+---
+
 ## 🔌 Circuit Diagram
 
-The following circuit diagram illustrates the hardware connections between the ESP32, 8-channel relay module, and laboratory appliances.
+The circuit diagram below shows the complete hardware connections between the ESP32, 8-channel relay module, and laboratory lighting and fan control system.
 
-![Circuit Diagram](Circuit_Diagram/Circuit_Diagram.png)
+![Circuit Diagram](Circuit_Diagram/circuit_diagram.png)
 
 ---
 
 ## 📱 Blynk Dashboard
 
-The Blynk IoT dashboard enables remote monitoring and control of laboratory lights and fans through a smartphone. It supports both individual appliance control and master control for all lights and fans.
+The Blynk IoT dashboard provides real-time remote control of all laboratory lights and fans. Users can operate individual appliances or control all lights and all fans simultaneously using master controls.
 
-![Blynk Dashboard](Images/Blynk_Dashboard.jpg)
+![Blynk Dashboard](Images/Blynk_Dashboard.jpg.jpeg)
 
 ## 🚀 Installation
 
