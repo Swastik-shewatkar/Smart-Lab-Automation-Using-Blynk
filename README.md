@@ -1,12 +1,12 @@
 # 🏫 IoT-Based Smart Laboratory Automation System Using Blynk
 
-![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue)
-![Arduino](https://img.shields.io/badge/Arduino-IDE-green)
-![Blynk](https://img.shields.io/badge/Blynk-IoT-orange)
-![C++](https://img.shields.io/badge/Language-C++-00599C) 
-![IoT](https://img.shields.io/badge/Technology-IoT-success)
-![WiFi](https://img.shields.io/badge/Communication-WiFi-yellow)
-
+![ESP32](https://img.shields.io/badge/ESP32-blue)
+![Microcontroller](https://img.shields.io/badge/Microcontroller-grey)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-IoT-23C48E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-Technology-success)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-Enabled-blue)
 An ESP32-based IoT Smart Laboratory Automation System designed to remotely monitor and control laboratory electrical appliances using the **Blynk IoT Platform**. The system provides individual as well as centralized control of lights and fans across multiple laboratory zones, improving operational efficiency and energy management.
 
 ---
